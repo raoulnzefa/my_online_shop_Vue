@@ -1,0 +1,68 @@
+{
+  "products": [
+    {
+      "image": "product1.jpg",
+      "name": "Cardigan",
+      "price": 2600,
+      "article": "T1",
+      "available": true,
+      "category": "Мужские"
+    },
+    {
+      "image": "woman1.png",
+      "name": "Suit",
+      "price": 10000,
+      "article": "T2",
+      "available": true,
+      "category": "Женские"
+    },
+    {
+      "image": "product3.jpg",
+      "name": "Jacket",
+      "price": 5800,
+      "article": "T3",
+      "available": false,
+      "category": "Мужские"
+    },
+    {
+      "image": "pic2.jpg",
+      "name": "Blouse",
+      "price": 1000,
+      "article": "T4",
+      "available": true,
+      "category": "Женские"
+    },
+    {
+      "image": "product5.jpg",
+      "name": "Sweatshirt",
+      "price": 4000,
+      "article": "T5",
+      "available": false,
+      "category": "Мужские"
+    },
+    {
+      "image": "woman3.png",
+      "name": "Pants",
+      "price": 5000,
+      "article": "T6",
+      "available": true,
+      "category": "Женские"
+    },
+    {
+      "image": "product7.jpg",
+      "name": "Jacket gray",
+      "price": 5300,
+      "article": "T7",
+      "available": true,
+      "category": "Мужские"
+    },
+    {
+      "image": "woman4.png",
+      "name": "Pullover",
+      "price": 8000,
+      "article": "T8",
+      "available": true,
+      "category": "Женские"
+    }
+  ]
+}
